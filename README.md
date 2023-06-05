@@ -1,6 +1,6 @@
 
 
-PostFinanceCheckout Payment for Shopware 6
+PostFinanceCheckout Payment for Shopware 6.4
 =============================
 
 The PostFinanceCheckout Payment plugin wraps around the PostFinanceCheckout API. This library facilitates your interaction with various services such as transactions.
