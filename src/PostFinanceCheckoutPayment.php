@@ -31,7 +31,6 @@ class PostFinanceCheckoutPayment extends Plugin {
 
 	/**
 	 * @param \Shopware\Core\Framework\Plugin\Context\UninstallContext $uninstallContext
-	 * @return void
 	 */
 	public function uninstall(UninstallContext $uninstallContext): void
 	{
@@ -43,7 +42,6 @@ class PostFinanceCheckoutPayment extends Plugin {
 
 	/**
 	 * @param \Shopware\Core\Framework\Plugin\Context\ActivateContext $activateContext
-	 * @return void
 	 */
 	public function activate(ActivateContext $activateContext): void
 	{
@@ -53,7 +51,6 @@ class PostFinanceCheckoutPayment extends Plugin {
 
 	/**
 	 * @param \Shopware\Core\Framework\Plugin\Context\DeactivateContext $deactivateContext
-	 * @return void
 	 */
 	public function deactivate(DeactivateContext $deactivateContext): void
 	{

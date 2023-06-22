@@ -48,8 +48,8 @@
 	  "options": {
 		"cardTitle": "Optionen",
 		"emailEnabled": {
-		  "label": "Auftragsbestätigung per E-Mail senden",
-		  "tooltipText": "Wenn diese Einstellung aktiviert ist, erhalten Ihre Kunden eine E-Mail von Ihrem Geschäft, wenn die Zahlung ihrer Bestellung autorisiert ist."
+		  "label": "Auftragsbestätigung per E-Mail nicht senden",
+		  "tooltipText": "Wenn diese Einstellung aktiviert ist, erhalten Ihre Kunden nicht eine E-Mail von Ihrem Geschäft, wenn die Zahlung ihrer Bestellung autorisiert ist."
 		},
 		"integration": {
 		  "label": "Integration",

@@ -25,7 +25,7 @@ use PostFinanceCheckoutPayment\Core\{
  * This class handles web calls that are made via the PostFinanceCheckoutPayment settings page.
  *
  * @package PostFinanceCheckoutPayment\Core\Api\Config\Controller
- * @Route(defaults={"_routeScope"={"api"}})
+ * @RouteScope(scopes={"api"})
  */
 class ConfigurationController extends AbstractController {
 

@@ -20,7 +20,7 @@ use PostFinanceCheckoutPayment\Core\{
  *
  * @package PostFinanceCheckoutPayment\Core\Api\Refund\Controller
  *
- * @Route(defaults={"_routeScope"={"api"}})
+ * @RouteScope(scopes={"api"})
  */
 class RefundController extends AbstractController {
 

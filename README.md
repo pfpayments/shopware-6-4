@@ -1,6 +1,6 @@
 
 
-PostFinanceCheckout Payment for Shopware 6.4
+PostFinanceCheckout Payment for Shopware 6
 =============================
 
 The PostFinanceCheckout Payment plugin wraps around the PostFinanceCheckout API. This library facilitates your interaction with various services such as transactions.
@@ -61,7 +61,7 @@ tail -f var/log/postfinancecheckout_payment*.log
 
 ## Documentation
 
-[Documentation](https://plugin-documentation.postfinance-checkout.ch/pfpayments/shopware-6/4.0.54/docs/en/documentation.html)
+[Documentation](@WalleeDocPath(/docs/en/documentation.html))
 
 ## License
 

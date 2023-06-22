@@ -48,8 +48,8 @@
 	  "options": {
 		"cardTitle": "Options",
 		"emailEnabled": {
-		  "label": "Send order confirmation email",
-		  "tooltipText": "If this setting is enabled your customers will receive an email from your store when their order payment is authorised"
+		  "label": "Do not send order confirmation email",
+		  "tooltipText": "If this setting is enabled your customers will not receive an email from your store when their order payment is authorised"
 		},
 		"integration": {
 		  "label": "Integration",

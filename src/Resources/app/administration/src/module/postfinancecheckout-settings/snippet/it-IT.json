@@ -48,8 +48,8 @@
 	  "options": {
 		"cardTitle": "Opzioni",
 		"emailEnabled": {
-		  "label": "Invia email di conferma dell'ordine",
-		  "tooltipText": "Se questa impostazione è abilitata i tuoi clienti riceveranno un'email dal tuo negozio quando il pagamento del loro ordine sarà autorizzato"
+		  "label": "Non inviare e-mail di conferma dell'ordine",
+		  "tooltipText": "Se questa impostazione è abilitata, i tuoi clienti non riceveranno un'e-mail dal tuo negozio quando il pagamento del loro ordine sarà autorizzato"
 		},
 		"integration": {
 		  "label": "Integrazione",
