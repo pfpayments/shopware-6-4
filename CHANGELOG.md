@@ -1,3 +1,6 @@
+# 4.0.54
+- Removal of the deprecated message in Shopware 6 Backend
+
 # 4.0.53
 - Creation of a new column in the transaction table called erp_merchant_id
 

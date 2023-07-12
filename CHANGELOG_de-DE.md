@@ -1,3 +1,6 @@
+# 4.0.54
+- Entfernung der veralteten Meldung im Shopware 6 Backend
+
 # 4.0.53
 - Erstellung einer neuen Spalte in der Transaktionstabelle mit dem Namen erp_merchant_id
 
