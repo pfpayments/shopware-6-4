@@ -1,3 +1,9 @@
+# 4.0.56
+- Implementation of cart restore feature when home button is pressed
+
+# 4.0.55
+- Support of Shopware 6.4.20.2
+
 # 4.0.54
 - Removal of the deprecated message in Shopware 6 Backend
 

@@ -1,3 +1,9 @@
+# 4.0.56
+- Implementierung der Warenkorb-Wiederherstellungsfunktion, wenn die Home-Taste gedrückt wird
+
+# 4.0.55
+- Unterstützung von Shopware 6.4.20.1
+
 # 4.0.54
 - Entfernung der veralteten Meldung im Shopware 6 Backend
 
